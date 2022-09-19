@@ -1,0 +1,134 @@
+{
+  "excluded": [],
+  "failed": [],
+  "invalid": [],
+  "passed": [
+    {
+      "describe": "changeset/1",
+      "file": "/home/gabriel/Code/IgniteElixir/ignite-elixir-desafio-relacionamento-entidades/test/exmeal/meal_test.exs",
+      "line": 11,
+      "module": "Elixir.Exmeal.MealTest",
+      "test": "test changeset/1 when all params are valid, returns a valid changeset"
+    },
+    {
+      "describe": "Get Meal",
+      "file": "/home/gabriel/Code/IgniteElixir/ignite-elixir-desafio-relacionamento-entidades/test/exmeal/meals/get_test.exs",
+      "line": 9,
+      "module": "Elixir.Exmeal.Meals.GetTest",
+      "test": "test Get Meal when a valid id is given, returns the meal"
+    },
+    {
+      "describe": "Get Meal",
+      "file": "/home/gabriel/Code/IgniteElixir/ignite-elixir-desafio-relacionamento-entidades/test/exmeal/meals/get_test.exs",
+      "line": 30,
+      "module": "Elixir.Exmeal.Meals.GetTest",
+      "test": "test Get Meal when an invalid id is given, returns an error"
+    },
+    {
+      "describe": "Delete Meal",
+      "file": "/home/gabriel/Code/IgniteElixir/ignite-elixir-desafio-relacionamento-entidades/test/exmeal/meals/delete_test.exs",
+      "line": 9,
+      "module": "Elixir.Exmeal.Meals.DeleteTest",
+      "test": "test Delete Meal when a valid id is given, returns the meal"
+    },
+    {
+      "describe": "Delete Meal",
+      "file": "/home/gabriel/Code/IgniteElixir/ignite-elixir-desafio-relacionamento-entidades/test/exmeal/meals/delete_test.exs",
+      "line": 30,
+      "module": "Elixir.Exmeal.Meals.DeleteTest",
+      "test": "test Delete Meal when an invalid id is given, returns an error"
+    },
+    {
+      "describe": "changeset/1",
+      "file": "/home/gabriel/Code/IgniteElixir/ignite-elixir-desafio-relacionamento-entidades/test/exmeal/user_test.exs",
+      "line": 11,
+      "module": "Elixir.Exmeal.UserTest",
+      "test": "test changeset/1 when all params are valid, returns a valid changeset"
+    },
+    {
+      "describe": "Update Meal",
+      "file": "/home/gabriel/Code/IgniteElixir/ignite-elixir-desafio-relacionamento-entidades/test/exmeal/meals/update_test.exs",
+      "line": 9,
+      "module": "Elixir.Exmeal.Meals.UpdateTest",
+      "test": "test Update Meal when a valid id is given, returns the meal"
+    },
+    {
+      "describe": "Update Meal",
+      "file": "/home/gabriel/Code/IgniteElixir/ignite-elixir-desafio-relacionamento-entidades/test/exmeal/meals/update_test.exs",
+      "line": 30,
+      "module": "Elixir.Exmeal.Meals.UpdateTest",
+      "test": "test Update Meal when an invalid id is given, returns an error"
+    },
+    {
+      "describe": "Delete user",
+      "file": "/home/gabriel/Code/IgniteElixir/ignite-elixir-desafio-relacionamento-entidades/test/exmeal/users/delete_test.exs",
+      "line": 9,
+      "module": "Elixir.Exmeal.Users.DeleteTest",
+      "test": "test Delete user when a valid id is given, returns the user"
+    },
+    {
+      "describe": "Delete user",
+      "file": "/home/gabriel/Code/IgniteElixir/ignite-elixir-desafio-relacionamento-entidades/test/exmeal/users/delete_test.exs",
+      "line": 25,
+      "module": "Elixir.Exmeal.Users.DeleteTest",
+      "test": "test Delete user when an invalid id is given, returns an error"
+    },
+    {
+      "describe": "Get User",
+      "file": "/home/gabriel/Code/IgniteElixir/ignite-elixir-desafio-relacionamento-entidades/test/exmeal/users/get_test.exs",
+      "line": 9,
+      "module": "Elixir.Exmeal.Users.GetTest",
+      "test": "test Get User when a valid id is given, returns the user"
+    },
+    {
+      "describe": "Get User",
+      "file": "/home/gabriel/Code/IgniteElixir/ignite-elixir-desafio-relacionamento-entidades/test/exmeal/users/get_test.exs",
+      "line": 25,
+      "module": "Elixir.Exmeal.Users.GetTest",
+      "test": "test Get User when an invalid id is given, returns an error"
+    },
+    {
+      "describe": "Update Meal",
+      "file": "/home/gabriel/Code/IgniteElixir/ignite-elixir-desafio-relacionamento-entidades/test/exmeal/users/update_test.exs",
+      "line": 9,
+      "module": "Elixir.Exmeal.User.UpdateTest",
+      "test": "test Update Meal when a valid id is given, returns the meal"
+    },
+    {
+      "describe": "Update Meal",
+      "file": "/home/gabriel/Code/IgniteElixir/ignite-elixir-desafio-relacionamento-entidades/test/exmeal/users/update_test.exs",
+      "line": 25,
+      "module": "Elixir.Exmeal.User.UpdateTest",
+      "test": "test Update Meal when an invalid id is given, returns an error"
+    },
+    {
+      "describe": "Create Meal",
+      "file": "/home/gabriel/Code/IgniteElixir/ignite-elixir-desafio-relacionamento-entidades/test/exmeal/meals/create_test.exs",
+      "line": 9,
+      "module": "Elixir.Exmeal.Meals.CreateTest",
+      "test": "test Create Meal when all params are valid, returns the meal"
+    },
+    {
+      "describe": "Create User",
+      "file": "/home/gabriel/Code/IgniteElixir/ignite-elixir-desafio-relacionamento-entidades/test/exmeal/users/create_test.exs",
+      "line": 7,
+      "module": "Elixir.Exmeal.Users.CreateTest",
+      "test": "test Create User when all params are valid, returns the user"
+    },
+    {
+      "describe": "Create User",
+      "file": "/home/gabriel/Code/IgniteElixir/ignite-elixir-desafio-relacionamento-entidades/test/exmeal/users/create_test.exs",
+      "line": 22,
+      "module": "Elixir.Exmeal.Users.CreateTest",
+      "test": "test Create User when there are invalid params, returns an error"
+    },
+    {
+      "describe": "Create Meal",
+      "file": "/home/gabriel/Code/IgniteElixir/ignite-elixir-desafio-relacionamento-entidades/test/exmeal/meals/create_test.exs",
+      "line": 27,
+      "module": "Elixir.Exmeal.Meals.CreateTest",
+      "test": "test Create Meal when there are invalid params, returns an error"
+    }
+  ],
+  "skiped": []
+}

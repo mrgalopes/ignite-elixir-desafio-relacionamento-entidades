@@ -15,7 +15,7 @@ defmodule Exmeal.MealTest do
 
       response =
         :meals_params
-        |>  build()
+        |> build()
         |> Meal.changeset()
 
       assert %Changeset{

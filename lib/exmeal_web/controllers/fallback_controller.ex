@@ -1,7 +1,8 @@
 defmodule ExmealWeb.FallbackController do
   use ExmealWeb, :controller
 
-  def call(conn, {) do
+  def call(conn, _params) do
     # TO DO
+    %{}
   end
 end
